@@ -14,9 +14,9 @@ You are given three sets of packet captures from three different networks in PCA
 
 Download the following PCAP files inside of your Kali Linux virtual machine:
 
-* Set 1: http://www.cs.tufts.edu/comp/116/set1.pcap (4.2 MB)
-* Set 2: http://www.cs.tufts.edu/comp/116/set2.pcap (61 MB. NOTE: I am not responsible for the contents in this PCAP.)
-* Set 3: http://www.cs.tufts.edu/comp/116/set3.pcap (17 KB)
+* Set 1: https://www.cs.tufts.edu/comp/116/set1.pcap (4.2 MB)
+* Set 2: https://www.cs.tufts.edu/comp/116/set2.pcap (61 MB. NOTE: I am not responsible for the contents in this PCAP.)
+* Set 3: https://www.cs.tufts.edu/comp/116/set3.pcap (17 KB)
 
 Open and analyze the sets of data, one at a time, using Wireshark. It is highly recommended that you also use additional open source tools (e.g., Ettercap, dsniff) for your analysis. Please answer all the questions below:
 
